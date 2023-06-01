@@ -5,7 +5,7 @@
 <link rel="stylesheet" href="style.css">
 <body>
 	<title>Google Drive</title>
-	<p> (https://sites.google.com/fcpsschools.net/school-study-helper/home)</p>
+	<p> </p>
 	<h1>The Grand List of Unblocked Games & Proxies</h1>
 	<h2>Working Websites</h2>
 	<p>This list will be frequently updated. Feel free to bookmark the website.</p>
