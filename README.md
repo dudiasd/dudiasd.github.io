@@ -26,7 +26,7 @@
 	</ul>
 	<h2>Proxies</h2>
 	<ul>
-		<p>(https://terbiumux.net/)</p>
+		<li><a nref=https://terbiumux.net/)
 	</ul>
 	<h2>Movie/TV Show/Anime Sites</h2>
 	<ul>
