@@ -5,7 +5,7 @@
 <link rel="stylesheet" href="style.css">
 <body>
 	<title>Google Drive</title>
-	<p>SELLING MY METHOD OF CREATING TEMPORARY PROXIES FOR $1 (HIT ME UP ON GITHUB IF YOU ARE INTERESTED)</p>
+	<p>)</p>
 	<h1>The Grand List of Unblocked Games & Proxies</h1>
 	<h2>Working Websites</h2>
 	<p>This list will be frequently updated. Feel free to bookmark the website.</p>
