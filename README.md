@@ -42,7 +42,7 @@
 	</ul>
 	<p>Thank you to all of the people who sent me links and reasources! If you want to be here, email/message me valid links and I'll add your name here. Thanks once again for your support!</p>
 	<h3>DISCLAMER: I AM NOT RESPONSIBLE FOR ANY HARM OR PUNISHMENT. USE AT YOUR OWN RISK.</h3>
-	<a href="<div id="sfcqnhgaqaxrxkmyazskwyg3aea6bjsdzax"></div><script type="text/javascript" src="https://counter10.optistats.ovh/private/counter.js?c=qnhgaqaxrxkmyazskwyg3aea6bjsdzax&down=async" async></script><br><a href="https://www.freecounterstat.com">hit counter</a><noscript><a href="https://www.freecounterstat.com" title="hit counter"><img src="https://counter10.optistats.ovh/private/freecounterstat.php?c=qnhgaqaxrxkmyazskwyg3aea6bjsdzax" border="0" title="hit counter" alt="hit counter"></a></noscript>
+	<="<div id="sfcqnhgaqaxrxkmyazskwyg3aea6bjsdzax"></div><script type="text/javascript" src="https://counter10.optistats.ovh/private/counter.js?c=qnhgaqaxrxkmyazskwyg3aea6bjsdzax&down=async" async></script><br><a href="https://www.freecounterstat.com">hit counter</a><noscript><a href="https://www.freecounterstat.com" title="hit counter"><img src="https://counter10.optistats.ovh/private/freecounterstat.php?c=qnhgaqaxrxkmyazskwyg3aea6bjsdzax" border="0" title="hit counter" alt="hit counter"></a></noscript>
 	<p>Copyright © 2023 AL</p>
 	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5408074954692614"
 		crossorigin="anonymous"></script>
