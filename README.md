@@ -19,7 +19,7 @@
 		<li><a href="https://sites.google.com/view/stealth-network/home?authuser=0">The Stealth Network</a></li>
 		<li><a href="https://ellieeet123.github.io/">Pringles Games</a></li>
 		<li><a href="https://sites.google.com/stu.palmbeachschools.org/mathlearningcenter/home?authuser=0">Math Study Group</a></li>
-		<li><a https://sites.google.com/view/hotline-games/home?authuser=0
+		<li><a https://sites.google.com/view/hotline-games/home?authuser=0</a></li>
 		<li><a href="https://sites.google.com/view/un3">Duck HTML</a></li>
 		<li><a href="https://sites.google.com/view/girraffeboy21yt-unblocks/links-of-proxies?authuser=0">Shadow Unblocker</a></li>
 	</>
@@ -30,7 +30,7 @@
 	<h2>Movie/TV Show/Anime Sites</h2>
 	<ul>
 		<p>(https://gmovies.cc/)</p>
-		<p>https://us.tomatomovies.com/<p>
+		<p>https://us.tomatomovies.com/)<p>
 	</ul>
 	<h2>Misc. Sites</h2>
 	<ul>
