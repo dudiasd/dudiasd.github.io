@@ -26,7 +26,7 @@
 	</ul>
 	<h2>Proxies</h2>
 	<ul>
-		<p>None...</p>
+		<p>  https://googlesclassroom.ga/  https://synik.ga/</p>
 	</ul>
 	<h2>Movie/TV Show/Anime Sites</h2>
 	<ul>
@@ -38,7 +38,7 @@
 	</ul>
 	<h2>Credits</h2>
 	<ul>
-		</li>
+		</>
 	</ul>
 	<p>Thank you to all of the people who sent me links and reasources! If you want to be here, email/message me valid links and I'll add your name here. Thanks once again for your support!</p>
 	<h3>DISCLAMER: I AM NOT RESPONSIBLE FOR ANY HARM OR PUNISHMENT. USE AT YOUR OWN RISK.</h3>
