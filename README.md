@@ -22,7 +22,7 @@
 		<li><a 
 		<li><a href="https://sites.google.com/view/un3">Duck HTML</a></li>
 		<li><a href="https://sites.google.com/view/girraffeboy21yt-unblocks/links-of-proxies?authuser=0">Shadow Unblocker</a></li>
-	</ul>
+	</>
 	<h2>Proxies</h2>
 	<ul>
 		<p>  none </p>
