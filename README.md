@@ -29,7 +29,8 @@
 	</ul>
 	<h2>Movie/TV Show/Anime Sites</h2>
 	<ul>
-		<p>None...</p>
+		<p>(https://gmovies.cc/)</p>
+		<p>https://us.tomatomovies.com/<p>
 	</ul>
 	<h2>Misc. Sites</h2>
 	<ul>
