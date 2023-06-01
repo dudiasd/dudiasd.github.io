@@ -26,7 +26,7 @@
 	</ul>
 	<h2>Proxies</h2>
 	<ul>
-		<p>  https://googlesclassroom.ga/  https://synik.ga/</p>
+		<p>  none </p>
 	</ul>
 	<h2>Movie/TV Show/Anime Sites</h2>
 	<ul>
