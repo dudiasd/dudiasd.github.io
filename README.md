@@ -1,5 +1,7 @@
 # dudiasd.github.io
 <!DOCTYPE html>
+
+<img class="logo" src="uv.png" alt="CM Logo">
 <html>
 <head>
 <link rel="stylesheet" href="style.css">
