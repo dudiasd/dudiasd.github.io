@@ -23,9 +23,8 @@
 		<li><a href="https://ellieeet123.github.io/">Pringles Games</a></li>
 		<li><a href="https://sites.google.com/stu.palmbeachschools.org/mathlearningcenter/home?authuser=0">Math Study Group</a></li>
 		<li><a href="https://75kh0.github.io/">3kh0</a></li>
-		<li><a href="https://sweetbakeryfood.com/">Cookieduck</a></li>
 		<li><a href="https://sites.google.com/view/un3">Duck HTML</a></li>
-		<li><a href="https://sites.google.com/view/girraffeboy21yt-unblocks/links-of-proxies?authuser=0">Shadow Unblocker</a></li>
+		</li>
 	</ul>
 	<h2>Proxies</h2>
 	<ul>
